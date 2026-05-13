@@ -1,0 +1,17 @@
+{
+  "name": "Mes Tables de Multiplication",
+  "short_name": "Mes Tables",
+  "description": "Deviens le champion des multiplications !",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#764ba2",
+  "theme_color": "#4a00e0",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5431/5431671.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
